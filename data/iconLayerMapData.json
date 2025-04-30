@@ -1,0 +1,287 @@
+{
+    "type": "map_layers",
+    "message_id": "ab12cd34-ef56-7890-ab12-cd34ef567890",
+    "layers": [
+      {
+        "layer": "IconLayer",
+        "latitude": 51.1657,
+        "longitude": 10.4515,
+        "location_name": "Germany",
+        "description": "Germany's economy grew 0.4% in Q1 2025 according to Destatis, and in April 2025 the Bundestag passed a digital sovereignty bill to boost home-grown tech."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": -25.2744,
+        "longitude": 133.7751,
+        "location_name": "Australia",
+        "description": "Australia recorded its hottest February on record in 2025, sparking national climate debates, and in March 2025 the RBA held interest rates steady at 4.35%."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 56.1304,
+        "longitude": -106.3468,
+        "location_name": "Canada",
+        "description": "Canada unveiled its 2025 federal budget in April, allocating CAD 20 billion to green infrastructure, while unemployment fell to 5.4% in March 2025."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": -14.2350,
+        "longitude": -51.9253,
+        "location_name": "Brazil",
+        "description": "Brazil saw inflation drop to 3.2% in March 2025 per IBGE data, and in February 2025 the government launched an Amazon reforestation initiative."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": -1.2864,
+        "longitude": 36.8172,
+        "location_name": "Kenya",
+        "description": "Kenya issued its first sovereign green bond in January 2025 raising $300 million, and Nairobi hosted the African Climate Summit in March 2025."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 55.3781,
+        "longitude": -3.4360,
+        "location_name": "United Kingdom",
+        "description": "UK inflation eased to 2.1% in April 2025, and in March 2025 local elections were held across England and Scotland."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 36.2048,
+        "longitude": 138.2529,
+        "location_name": "Japan",
+        "description": "Japan's unemployment rate fell to 2.4% in February 2025 according to JILPT, and Tokyo rolled out a new EV subsidy scheme in March 2025."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 37.5665,
+        "longitude": 126.9780,
+        "location_name": "South Korea",
+        "description": "South Korea's exports grew 5% year-on-year in March 2025 as per KITA, and Seoul unveiled its 2050 carbon-neutrality roadmap in April 2025."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "location_name": "France",
+        "description": "France reported 1.5% GDP growth in Q1 2025 (INSEE), and Paris hosted the UNESCO cultural summit in early April 2025."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 37.0902,
+        "longitude": -95.7129,
+        "location_name": "United States",
+        "description": "The U.S. economy expanded at an annualized rate of 1.8% in Q1 2025 (BEA), and in April 2025 the Fed kept benchmark rates in the 5.25–5.50% range."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 35.8617,
+        "longitude": 104.1954,
+        "location_name": "China",
+        "description": "China's Q1 2025 GDP rose 4.5% year-on-year (NBS), and in March 2025 Beijing unveiled new incentives for domestic semiconductor production."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 20.5937,
+        "longitude": 78.9629,
+        "location_name": "India",
+        "description": "India’s GDP grew 6.0% in FY 2024–25 (MoSPI), and in April 2025 Parliament passed the Data Protection Bill to regulate personal data usage."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 61.5240,
+        "longitude": 105.3188,
+        "location_name": "Russia",
+        "description": "Russia’s inflation eased to 6.8% in March 2025 (Rosstat), and in April 2025 the government approved new investment subsidies for Arctic development."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": -30.5595,
+        "longitude": 22.9375,
+        "location_name": "South Africa",
+        "description": "South Africa reported a trade surplus of R 5.2 billion in Q1 2025 (SARS), and in March 2025 rolling blackouts prompted new energy-sector reforms."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 64.9631,
+        "longitude": -19.0208,
+        "location_name": "Iceland",
+        "description": "Iceland’s renewable power share reached 100% in Q1 2025, and in April 2025 Reykjavík hosted the Arctic Climate Resilience Conference."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 51.1657,
+        "longitude": 10.4515,
+        "location_name": "Germany",
+        "description": "Germany's economy grew 0.4% in Q1 2025 according to Destatis, and in April 2025 the Bundestag passed a digital sovereignty bill to boost home-grown tech."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": -25.2744,
+        "longitude": 133.7751,
+        "location_name": "Australia",
+        "description": "Australia recorded its hottest February on record in 2025, sparking national climate debates, and in March 2025 the RBA held interest rates steady at 4.35%."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 56.1304,
+        "longitude": -106.3468,
+        "location_name": "Canada",
+        "description": "Canada unveiled its 2025 federal budget in April, allocating CAD 20 billion to green infrastructure, while unemployment fell to 5.4% in March 2025."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": -14.2350,
+        "longitude": -51.9253,
+        "location_name": "Brazil",
+        "description": "Brazil saw inflation drop to 3.2% in March 2025 per IBGE data, and in February 2025 the government launched an Amazon reforestation initiative."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": -1.2864,
+        "longitude": 36.8172,
+        "location_name": "Kenya",
+        "description": "Kenya issued its first sovereign green bond in January 2025 raising USD 300 million, and Nairobi hosted the African Climate Summit in March 2025."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 55.3781,
+        "longitude": -3.4360,
+        "location_name": "United Kingdom",
+        "description": "UK inflation eased to 2.1% in April 2025, and in March 2025 local elections were held across England and Scotland."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 36.2048,
+        "longitude": 138.2529,
+        "location_name": "Japan",
+        "description": "Japan's unemployment rate fell to 2.4% in February 2025 according to JILPT, and Tokyo rolled out a new EV subsidy scheme in March 2025."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 37.5665,
+        "longitude": 126.9780,
+        "location_name": "South Korea",
+        "description": "South Korea's exports grew 5% year-on-year in March 2025 as per KITA, and Seoul unveiled its 2050 carbon-neutrality roadmap in April 2025."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "location_name": "France",
+        "description": "France reported 1.5% GDP growth in Q1 2025 (INSEE), and Paris hosted the UNESCO cultural summit in early April 2025."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 37.0902,
+        "longitude": -95.7129,
+        "location_name": "United States",
+        "description": "The U.S. economy expanded at an annualized rate of 1.8% in Q1 2025 (BEA), and in April 2025 the Fed kept benchmark rates in the 5.25–5.50% range."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 35.8617,
+        "longitude": 104.1954,
+        "location_name": "China",
+        "description": "China's Q1 2025 GDP rose 4.5% year-on-year (NBS), and in March 2025 Beijing unveiled new incentives for domestic semiconductor production."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 20.5937,
+        "longitude": 78.9629,
+        "location_name": "India",
+        "description": "India’s GDP grew 6.0% in FY 2024–25 (MoSPI), and in April 2025 Parliament passed the Data Protection Bill to regulate personal data usage."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 61.5240,
+        "longitude": 105.3188,
+        "location_name": "Russia",
+        "description": "Russia’s inflation eased to 6.8% in March 2025 (Rosstat), and in April 2025 the government approved new investment subsidies for Arctic development."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": -30.5595,
+        "longitude": 22.9375,
+        "location_name": "South Africa",
+        "description": "South Africa reported a trade surplus of ZAR 5.2 billion in Q1 2025 (SARS), and in March 2025 rolling blackouts prompted new energy-sector reforms."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 64.9631,
+        "longitude": -19.0208,
+        "location_name": "Iceland",
+        "description": "Iceland’s renewable power share reached 100% in Q1 2025, and in April 2025 Reykjavík hosted the Arctic Climate Resilience Conference."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 23.6345,
+        "longitude": -102.5528,
+        "location_name": "Mexico",
+        "description": "Mexico’s GDP grew 2.7% in Q1 2025 (INEGI), and in April 2025 the government launched a nationwide digital education program."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 41.8719,
+        "longitude": 12.5674,
+        "location_name": "Italy",
+        "description": "Italy’s industrial production rose 1.2% in March 2025 (ISTAT), and in April 2025 Rome hosted the G20 cultural heritage summit."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 40.4637,
+        "longitude": -3.7492,
+        "location_name": "Spain",
+        "description": "Spain’s unemployment rate fell to 12.8% in March 2025 (INE), and in April 2025 Barcelona unveiled its new smart-city infrastructure plan."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": -38.4161,
+        "longitude": -63.6167,
+        "location_name": "Argentina",
+        "description": "Argentina’s inflation eased to 4.1% in Q1 2025 (INDEC), and in March 2025 Buenos Aires hosted the Mercosur trade ministers meeting."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 26.8206,
+        "longitude": 30.8025,
+        "location_name": "Egypt",
+        "description": "Egypt’s tourism revenues rebounded to USD 7.5 billion in Q1 2025 (CBE), and in April 2025 Cairo inaugurated its new high-speed rail link."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 38.9637,
+        "longitude": 35.2433,
+        "location_name": "Turkey",
+        "description": "Turkey’s exports jumped 8% year-on-year in March 2025 (TUIK), and in April 2025 Ankara approved a national AI strategy."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 23.8859,
+        "longitude": 45.0792,
+        "location_name": "Saudi Arabia",
+        "description": "Saudi Arabia’s non-oil private sector PMI rose to 58.2 in March 2025 (SAMA), and in April 2025 Riyadh launched its first electric vehicle charging network."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": -0.7893,
+        "longitude": 113.9213,
+        "location_name": "Indonesia",
+        "description": "Indonesia’s GDP grew 5.1% in Q1 2025 (BPS), and in April 2025 Jakarta began construction of a new mass rapid transit line."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 30.3753,
+        "longitude": 69.3451,
+        "location_name": "Pakistan",
+        "description": "Pakistan’s trade deficit narrowed to USD 4.3 billion in Q1 2025 (PBS), and in March 2025 Islamabad launched a nationwide e-health initiative."
+      },
+      {
+        "layer": "IconLayer",
+        "latitude": 9.0820,
+        "longitude": 8.6753,
+        "location_name": "Nigeria",
+        "description": "Nigeria’s GDP grew 3.5% in Q1 2025 (NBS), and in April 2025 Lagos hosted the West African fintech expo."
+      }
+    ]
+  }
+  

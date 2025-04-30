@@ -1,0 +1,47 @@
+{
+  "type": "map_layers",
+  "message_id": "ff9a1b2c-3d4e-5f6a-7b8c-9d0e1f2a3b4c",
+  "layers": [
+    { "layer": "HexagonLayer", "latitude": 20.5937, "longitude": 78.9629, "location_name": "India",         "datetime_info": "2020-01-01T00:00:00.000Z", "numerical_data": 2.87, "numerical_data_unit": "trillion USD" },
+    { "layer": "HexagonLayer", "latitude": 20.5937, "longitude": 78.9629, "location_name": "India",         "datetime_info": "2021-01-01T00:00:00.000Z", "numerical_data": 3.17, "numerical_data_unit": "trillion USD" },
+    { "layer": "HexagonLayer", "latitude": 20.5937, "longitude": 78.9629, "location_name": "India",         "datetime_info": "2022-01-01T00:00:00.000Z", "numerical_data": 3.47, "numerical_data_unit": "trillion USD" },
+
+    { "layer": "HexagonLayer", "latitude": 51.1657, "longitude": 10.4515, "location_name": "Germany",       "datetime_info": "2017-01-01T00:00:00.000Z", "numerical_data": 538,  "numerical_data_unit": "TWh" },
+    { "layer": "HexagonLayer", "latitude": 51.1657, "longitude": 10.4515, "location_name": "Germany",       "datetime_info": "2018-01-01T00:00:00.000Z", "numerical_data": 595,  "numerical_data_unit": "TWh" },
+    { "layer": "HexagonLayer", "latitude": 51.1657, "longitude": 10.4515, "location_name": "Germany",       "datetime_info": "2019-01-01T00:00:00.000Z", "numerical_data": 572,  "numerical_data_unit": "TWh" },
+
+    { "layer": "HexagonLayer", "latitude": 55.3781, "longitude": -3.4360, "location_name": "United Kingdom", "datetime_info": "2019-01-01T00:00:00.000Z", "numerical_data": 33.1, "numerical_data_unit": "%" },
+    { "layer": "HexagonLayer", "latitude": 55.3781, "longitude": -3.4360, "location_name": "United Kingdom", "datetime_info": "2020-01-01T00:00:00.000Z", "numerical_data": 43.1, "numerical_data_unit": "%" },
+    { "layer": "HexagonLayer", "latitude": 55.3781, "longitude": -3.4360, "location_name": "United Kingdom", "datetime_info": "2021-01-01T00:00:00.000Z", "numerical_data": 42.9, "numerical_data_unit": "%" },
+
+    { "layer": "HexagonLayer", "latitude": 40.4637, "longitude": -3.7492, "location_name": "Spain",          "datetime_info": "2018-01-01T00:00:00.000Z", "numerical_data": 15.3, "numerical_data_unit": "%" },
+    { "layer": "HexagonLayer", "latitude": 40.4637, "longitude": -3.7492, "location_name": "Spain",          "datetime_info": "2019-01-01T00:00:00.000Z", "numerical_data": 14.1, "numerical_data_unit": "%" },
+    { "layer": "HexagonLayer", "latitude": 40.4637, "longitude": -3.7492, "location_name": "Spain",          "datetime_info": "2020-01-01T00:00:00.000Z", "numerical_data": 16.1, "numerical_data_unit": "%" },
+
+    { "layer": "HexagonLayer", "latitude": 36.2048, "longitude": 138.2529,"location_name": "Japan",          "datetime_info": "2020-01-01T00:00:00.000Z", "numerical_data": 82.2, "numerical_data_unit": "%" },
+    { "layer": "HexagonLayer", "latitude": 36.2048, "longitude": 138.2529,"location_name": "Japan",          "datetime_info": "2021-01-01T00:00:00.000Z", "numerical_data": 83.6, "numerical_data_unit": "%" },
+    { "layer": "HexagonLayer", "latitude": 36.2048, "longitude": 138.2529,"location_name": "Japan",          "datetime_info": "2022-01-01T00:00:00.000Z", "numerical_data": 84.5, "numerical_data_unit": "%" },
+
+    { "layer": "HexagonLayer", "latitude": 9.0820,  "longitude": 8.6753,  "location_name": "Nigeria",        "datetime_info": "2016-01-01T00:00:00.000Z", "numerical_data": 97.97,"numerical_data_unit": "million users" },
+    { "layer": "HexagonLayer", "latitude": 9.0820,  "longitude": 8.6753,  "location_name": "Nigeria",        "datetime_info": "2017-01-01T00:00:00.000Z", "numerical_data": 111.15,"numerical_data_unit": "million users" },
+    { "layer": "HexagonLayer", "latitude": 9.0820,  "longitude": 8.6753,  "location_name": "Nigeria",        "datetime_info": "2018-01-01T00:00:00.000Z", "numerical_data": 123.01,"numerical_data_unit": "million users" },
+
+    { "layer": "HexagonLayer", "latitude": -14.2350,"longitude": -51.9253,"location_name": "Brazil",         "datetime_info": "2019-01-01T00:00:00.000Z", "numerical_data": 1761, "numerical_data_unit": "mm rainfall" },
+    { "layer": "HexagonLayer", "latitude": -14.2350,"longitude": -51.9253,"location_name": "Brazil",         "datetime_info": "2020-01-01T00:00:00.000Z", "numerical_data": 1750, "numerical_data_unit": "mm rainfall" },
+    { "layer": "HexagonLayer", "latitude": -14.2350,"longitude": -51.9253,"location_name": "Brazil",         "datetime_info": "2021-01-01T00:00:00.000Z", "numerical_data": 1745, "numerical_data_unit": "mm rainfall" },
+
+    { "layer": "HexagonLayer", "latitude": 46.2276, "longitude": 2.2137,   "location_name": "France",         "datetime_info": "2017-01-01T00:00:00.000Z", "numerical_data": 86.9, "numerical_data_unit": "million visitors" },
+    { "layer": "HexagonLayer", "latitude": 46.2276, "longitude": 2.2137,   "location_name": "France",         "datetime_info": "2018-01-01T00:00:00.000Z", "numerical_data": 89.4, "numerical_data_unit": "million visitors" },
+    { "layer": "HexagonLayer", "latitude": 46.2276, "longitude": 2.2137,   "location_name": "France",         "datetime_info": "2019-01-01T00:00:00.000Z", "numerical_data": 90.0, "numerical_data_unit": "million visitors" },
+
+    { "layer": "HexagonLayer", "latitude": 23.8859, "longitude": 45.0792,  "location_name": "Saudi Arabia",   "datetime_info": "2020-01-01T00:00:00.000Z", "numerical_data": 9.2,  "numerical_data_unit": "million bpd" },
+    { "layer": "HexagonLayer", "latitude": 23.8859, "longitude": 45.0792,  "location_name": "Saudi Arabia",   "datetime_info": "2021-01-01T00:00:00.000Z", "numerical_data": 10.2, "numerical_data_unit": "million bpd" },
+    { "layer": "HexagonLayer", "latitude": 23.8859, "longitude": 45.0792,  "location_name": "Saudi Arabia",   "datetime_info": "2022-01-01T00:00:00.000Z", "numerical_data": 10.8, "numerical_data_unit": "million bpd" },
+
+    { "layer": "HexagonLayer", "latitude": 35.8617, "longitude": 104.1954, "location_name": "China",          "datetime_info": "2019-01-01T00:00:00.000Z", "numerical_data": 10.1, "numerical_data_unit": "billion tonnes CO₂" },
+    { "layer": "HexagonLayer", "latitude": 35.8617, "longitude": 104.1954, "location_name": "China",          "datetime_info": "2020-01-01T00:00:00.000Z", "numerical_data": 10.2, "numerical_data_unit": "billion tonnes CO₂" },
+
+    { "layer": "HexagonLayer", "latitude": -25.2744,"longitude": 133.7751, "location_name": "Australia",      "datetime_info": "2020-01-01T00:00:00.000Z", "numerical_data": 25.5, "numerical_data_unit": "million tonnes" },
+    { "layer": "HexagonLayer", "latitude": -25.2744,"longitude": 133.7751, "location_name": "Australia",      "datetime_info": "2021-01-01T00:00:00.000Z", "numerical_data": 26.1, "numerical_data_unit": "million tonnes" }
+  ]
+}
